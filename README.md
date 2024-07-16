@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
+| [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
 | ------- |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0344-reverse-string) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
