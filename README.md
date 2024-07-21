@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1833-find-the-highest-altitude](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
 ## String
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
