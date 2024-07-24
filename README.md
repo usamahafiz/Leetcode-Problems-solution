@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1833-find-the-highest-altitude) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
