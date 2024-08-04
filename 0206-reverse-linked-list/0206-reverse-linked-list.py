@@ -11,6 +11,7 @@ class Solution:
             current.next = prev # step to reverse current pointer's node
             prev = current # moved prev to current node but not at node_next node  bcz at last prev move to the new head
             current = next_node # current move one node ahead
-        return prev
+            head = prev
+        return head
 
         
