@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0013-roman-to-integer) |
 | [0387-first-unique-character-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0013-roman-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 | [3321-type-of-triangle](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3321-type-of-triangle) |
 ## Counting
