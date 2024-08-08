@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0402-remove-k-digits) |
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1894-merge-strings-alternately) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
