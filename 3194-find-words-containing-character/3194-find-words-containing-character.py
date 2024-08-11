@@ -5,3 +5,4 @@ class Solution:
             if x in words[i]: #given x is present in the words at index i
                 arr.append(i) #if true append(move) in the list arr
         return arr
+
