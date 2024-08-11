@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3194-find-words-containing-character) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 ## Two Pointers
 |  |
