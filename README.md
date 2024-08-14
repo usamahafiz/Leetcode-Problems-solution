@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0409-longest-palindrome) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3321-type-of-triangle](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3321-type-of-triangle) |
 ## Queue
 |  |
