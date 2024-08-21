@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0238-product-of-array-except-self) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0344-reverse-string) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
