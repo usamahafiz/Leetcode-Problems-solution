@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1833-find-the-highest-altitude](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1833-find-the-highest-altitude) |
+| [2048-build-array-from-permutation](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2232-adding-spaces-to-a-string) |
 | [3194-find-words-containing-character](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3194-find-words-containing-character) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2232-adding-spaces-to-a-string) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
