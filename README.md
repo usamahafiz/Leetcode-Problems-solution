@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0792-binary-search) |
 | [1293-three-consecutive-odds](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1293-three-consecutive-odds) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3321-type-of-triangle](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3321-type-of-triangle) |
 ## Queue
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
