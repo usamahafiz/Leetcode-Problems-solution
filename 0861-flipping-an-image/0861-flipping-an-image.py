@@ -8,6 +8,6 @@ class Solution:
                 else:
                     image[i][j] = 0 #otherwise it remains as zero
         return image
-#time complexity O(m x n) where 'm' is row and 'n' is the elements in the row 
+#time complexity O(m x n) where 'm' is row and 'n' is the elements in the each row 
 #space complexity O(1)
         
