@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0792-binary-search) |
+| [0861-flipping-an-image](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0861-flipping-an-image) |
 | [1293-three-consecutive-odds](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -60,11 +61,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0861-flipping-an-image](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1894-merge-strings-alternately) |
 | [2232-adding-spaces-to-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0861-flipping-an-image) |
 | [2048-build-array-from-permutation](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/2232-adding-spaces-to-a-string) |
@@ -199,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
