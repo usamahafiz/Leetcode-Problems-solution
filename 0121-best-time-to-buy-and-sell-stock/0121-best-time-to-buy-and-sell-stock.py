@@ -8,7 +8,7 @@ class Solution:
                 maxPro = max(maxPro , profit)
             else:
                 l = r #means left takes place of right
-            r += 1
-        return maxPro
+            r += 1 #if l < r then we only decreament right not left
+        return maxPro #last return maximum profit
 
         
