@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1651-shuffle-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1894-merge-strings-alternately) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0424-longest-repeating-character-replacement) |
 ## Greedy
 |  |
 | ------- |
