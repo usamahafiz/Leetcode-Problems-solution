@@ -6,4 +6,6 @@ class Solution:
                 stack.pop() #pop (remove) duplicate character
             else:
                 stack.append(c)  # append the charater in the string
-        return "".join(stack)
+        return "".join(stack) 
+#time complexity O(n)
+#space complexity O(n)
