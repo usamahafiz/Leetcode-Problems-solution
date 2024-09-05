@@ -26,3 +26,5 @@ class Solution:
             first.next = second
             second.next = temp1
             first, second = temp1, temp2
+#time complexity O(n)
+#space complexity O(1)
