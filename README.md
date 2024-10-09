@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0792-binary-search) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0128-longest-consecutive-sequence) |
+| [0268-missing-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0387-first-unique-character-in-a-string) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1635-number-of-good-pairs) |
 | [3321-type-of-triangle](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/3321-type-of-triangle) |
 ## Counting
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0792-binary-search) |
 ## Sorting
@@ -126,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
+| [0268-missing-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0349-intersection-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0861-flipping-an-image) |
 ## Matrix
 |  |
