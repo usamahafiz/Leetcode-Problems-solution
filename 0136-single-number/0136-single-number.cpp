@@ -4,7 +4,7 @@ public:
         int ans = 0;
         //values in the nums array
         for(int val: nums){
-            ans = ans ^ val;
+            ans ^= val;
             
         }
         return ans;
