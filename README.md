@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0136-single-number) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/usamahafiz/Leetcode-Problems-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
